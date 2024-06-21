@@ -3,6 +3,8 @@
 
 This is GDAL static library builded for ios platform, with swift binding
 
+This library moved to [https://github.com/syngenta/gdal-swift](https://github.com/syngenta/gdal-swift)
+
 ### Installation
 For installation GDAL you can use cocoapods
 
